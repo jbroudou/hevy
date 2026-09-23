@@ -58,3 +58,6 @@ htmlcov/
 dmypy.json
 
 # Project specific
+
+# Session handoff prompts
+prompts/
