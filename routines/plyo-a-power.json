@@ -1,0 +1,91 @@
+{
+  "title": "Plyo A - Power",
+  "routine_id": "9d1c7b61-0df9-404e-8ebc-e0bb413055e2",
+  "folder": "Plyometrics",
+  "notes": "Lower-body power, ~35 min. No upper-body loading: hands on hips or a light arm swing only. WARM UP FIRST (not logged): 3 min easy bike, leg swings, 10 bodyweight squats, 2 x 10 ankle hops. Rule: speed and quality, stop before fatigue. If jumps get visibly slower or landings get noisy, end the set. Land quietly, knees over feet. Sharp pain in the Achilles or shin = stop.",
+  "exercises": [
+    {
+      "name": "Pogo Jumps",
+      "template_id": "90789e43-f30e-43fe-b3b9-7592e9608c97",
+      "create": {
+        "exercise_type": "duration",
+        "equipment_category": "none",
+        "muscle_group": "calves",
+        "other_muscles": [
+          "quadriceps"
+        ]
+      },
+      "sets": 3,
+      "duration_seconds": 15,
+      "rest_seconds": 45,
+      "notes": "Both feet, stiff ankles, minimal knee bend. Short ground contact and crisp rebound, not height. Ankle stiffness and quick feet. Progress to 20 sec when 15 sec stays crisp.\n\nHOW TO\n1. Stand tall, feet hip-width, hands on hips.\n2. Bounce straight up and down off the balls of the feet. Knees stay almost straight — the spring comes from the ankles.\n3. Heels never touch the floor. Each contact should be short and quiet, like the floor is hot.\n4. Height is only a few centimetres. Rhythm and stiffness, not effort.\nWatch for: Knees bending more with each hop, heels sinking, or landings getting loud — end the set.\nVideo: https://youtu.be/j0nl5dWuqN4 (Pogo Jumps Tutorial – Proper Form and Technique, Runna)"
+    },
+    {
+      "name": "Jump Squat",
+      "template_id": "70D4EBBF",
+      "sets": 4,
+      "reps": 3,
+      "rest_seconds": 90,
+      "notes": "Countermovement jump: dip fast, jump for max height, stick the landing and reset between reps. Every rep maximal. General lower-body explosiveness.\n\nHOW TO\n1. Stand feet hip- to shoulder-width, hands on hips (arms stay out of it this week).\n2. Dip quickly to about a quarter squat — hips back, chest up — and without pausing at the bottom, jump as high as you can.\n3. Land on the balls of the feet rolling to the whole foot, knees bent and pointing over the toes, and hold the landing still.\n4. Stand up, reset, then do the next rep. Each rep is a single maximal jump, not a bounce.\nWatch for: Knees caving inward on the take-off or landing.\nVideo: https://youtu.be/sLvArswhYMQ (How To Do a Counter Movement Jump, Swift Movement Academy)\nThe video may use an arm swing; keep hands on hips this week."
+    },
+    {
+      "name": "Split-Stance Jump",
+      "template_id": "e31be800-be62-463d-8b13-4217c9285815",
+      "create": {
+        "exercise_type": "reps_only",
+        "equipment_category": "none",
+        "muscle_group": "quadriceps",
+        "other_muscles": [
+          "glutes",
+          "calves"
+        ]
+      },
+      "sets": 3,
+      "reps": 8,
+      "rest_seconds": 90,
+      "notes": "8 = 4 per side. From boxing stance, jump for height, land back in the same stance without the feet narrowing or crossing. Do 4 orthodox then 4 southpaw. Explosive movement from the stance.\n\nHOW TO\n1. Take your boxing stance: feet about shoulder-width apart, lead foot forward, rear heel slightly up.\n2. Dip slightly and jump straight up as high as you can from that stance.\n3. Land in the same stance — same width, same foot forward. Stick it for a second.\n4. 4 reps in orthodox stance, then switch to southpaw for 4.\nWatch for: Feet landing in a line (narrowed stance) or crossing. Keep the width you'd fight in.\nVideo: https://youtu.be/-s_G3h98s5s (Staggered Stance Vertical Jump, THIRSTgym.com / Brandon Smitley)\nShows a staggered (front–back) stance. Use your wider boxing stance and keep your feet the same on landing."
+    },
+    {
+      "name": "Broad Jump",
+      "template_id": "57c3c647-7765-4ae2-982c-33d1dce0bf7b",
+      "sets": 3,
+      "reps": 3,
+      "rest_seconds": 90,
+      "notes": "Max distance, stick the landing, hold 2 sec, walk back. Do not rebound. Landing quality and bilateral power.\n\nHOW TO\n1. Stand feet hip-width behind a line, hands on hips or a small arm swing.\n2. Dip hips back and jump forward as far as you can.\n3. Land on both feet, knees bent over toes, hips back — and freeze. Hold 2 seconds.\n4. Walk back to the line. No rebound into a second jump.\nWatch for: Falling forward or stepping out of the landing. If you can't hold it, you jumped further than you can control. Shorten the jump.\nVideo: https://youtu.be/bHT0w3KADFI (Broad Jump w/stick, Bullett Performance Training)"
+    },
+    {
+      "name": "Lateral Bounds",
+      "template_id": "4c96e195-c98d-4b17-8457-5ec3fc2b0be6",
+      "sets": 3,
+      "reps": 8,
+      "rest_seconds": 90,
+      "notes": "8 = 4 per side, alternating. Push off one leg, land on the other under control, then bound back. Angles and lateral push-off.\n\nHOW TO\n1. Stand on your right leg, knee soft, hips slightly back.\n2. Push hard off the right leg and bound sideways to the left.\n3. Land on your left leg only, softly, knee bent over the toes, hips back. Control it for a moment.\n4. Push off the left leg and bound back to the right. That's 1 rep per side.\nWatch for: Knee collapsing inward on the landing leg, or the trailing foot touching down to save the landing.\nVideo: https://youtu.be/soqQy4dzEts (How To Lateral Bound, Third Space London)"
+    },
+    {
+      "name": "Boxing Footwork",
+      "template_id": "425606c1-2f66-479b-b659-1ab88aef0eec",
+      "create": {
+        "exercise_type": "duration",
+        "equipment_category": "none",
+        "muscle_group": "full_body",
+        "other_muscles": [
+          "quadriceps",
+          "calves"
+        ]
+      },
+      "sets": 4,
+      "duration_seconds": 15,
+      "rest_seconds": 60,
+      "notes": "NO PUNCHES this week (shoulder). Pattern: stance -> explosive step in -> angle out (pivot or L-step) -> reset stance. Keep stance width, never cross the feet. Full recovery between bursts. This replaces the plan's step-in -> 1-2 -> angle out until the shoulder allows punching.\n\nHOW TO\n1. Start in stance, guard relaxed, hands low if the shoulder objects.\n2. Explode forward: push off the rear foot, lead foot steps in, rear foot follows the same distance.\n3. Immediately exit on an angle: pivot on the lead foot, swinging the rear foot round about 90°. Or L-step out (see Plyo B).\n4. Reset to a balanced stance. That's one burst — repeat for the 15 seconds.\nWatch for: Crossing the feet, or ending the pivot square-on and flat-footed. You should finish ready to move again.\nVideo: https://youtu.be/TS0eQ9ytkVE (Boxing Footwork: Step Out and Pivot, KingFit Training)\nIgnore any punching in the video. No punches this week."
+    },
+    {
+      "name": "Walking Lunge (Dumbbell)",
+      "template_id": "A733CC5B",
+      "sets": 3,
+      "weight_kg": 20,
+      "distance_meters": 20,
+      "rest_seconds": 90,
+      "notes": "Endurance finisher, done last so it cannot degrade the jumps. Lighter than Power B (25 kg on 17 Sep): 20 kg or bodyweight. Dumbbells hang at the sides, no shoulder involvement. Drop it if the shoulder objects to carrying.\n\nHOW TO\n1. A 20 kg dumbbell in each hand, arms hanging straight at your sides. Or go bodyweight.\n2. Take a long step forward and lower until the back knee almost touches the floor. The front shin stays roughly vertical.\n3. Drive through the front heel to stand and bring the back foot through into the next step.\n4. Torso upright the whole way, 20 m per set.\nWatch for: Front knee caving in, or leaning the torso forward. If carrying the dumbbells bothers the shoulder, drop them.\nVideo: https://youtu.be/I34ysEkPK7w (Dumbbell Walking Lunge – How To, Bobby Maximus)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Plyo B - Reactive Feet",
+  "routine_id": "a31b0cea-c3b9-4e63-8ba7-afddf23f49c1",
+  "folder": "Plyometrics",
+  "notes": "Reactive footwork then lower-leg endurance, ~40 min. No upper-body loading. WARM UP FIRST (not logged): 3 min easy bike, leg swings, 10 bodyweight squats. Tape a + on the floor, or use a line. Bursts are 10-20 sec with full stance recovery between. Rule: fast and springy, not grinding. If ground contacts get slow or heavy, end the set. The calf block is LAST and is the documented weak link (soleus): expect soreness for days, which is why this session sits at the end of the week.",
+  "exercises": [
+    {
+      "name": "Alternating Plate Pogo",
+      "template_id": "0fd99e3c-3688-40d0-ba4c-e07b9ceab2e4",
+      "sets": 2,
+      "duration_seconds": 20,
+      "rest_seconds": 45,
+      "notes": "From Quick Feet (Ted Ryce). Rhythm and single-leg reactive strength. Short ground contacts.\n\nHOW TO\n1. Put a weight plate (or a low step or line) on the floor in front of you.\n2. Hop on one foot, then the other, in a quick rhythm, like running on the spot with springy ankles. Tap the balls of the feet onto the plate alternately.\n3. Stay on the balls of the feet, knees nearly straight, contacts short and light.\n4. Keep a steady rhythm for the full 20 seconds.\nWatch for: Losing the rhythm or landing flat-footed. Slow down until the rhythm is clean.\nVideo: https://youtu.be/UMkV8sT2lvw (Alternating Pogo Hops, Relentless Athletics)\nThis video shows the drill on flat ground. Ted Ryce's plate version is in the videos in his original thread: x.com/ted_ryce/status/2100563272713846966"
+    },
+    {
+      "name": "Line Hops",
+      "template_id": "65725269-00aa-4f0f-9958-6c4009a03ae4",
+      "create": {
+        "exercise_type": "duration",
+        "equipment_category": "none",
+        "muscle_group": "calves",
+        "other_muscles": [
+          "quadriceps"
+        ]
+      },
+      "sets": 6,
+      "duration_seconds": 10,
+      "rest_seconds": 40,
+      "notes": "Sets 1-3: forward/back over the line. Sets 4-6: side/side. Both feet, fast, low, stiff ankles. Rapid stance adjustments and lateral foot speed.\n\nHOW TO\n1. Put a strip of tape or a line on the floor. Stand with both feet together just behind it.\n2. Sets 1–3: hop forward over the line and straight back, as fast as you can, both feet together.\n3. Sets 4–6: stand beside the line and hop side to side over it.\n4. Keep the hops low, stay on the balls of the feet with stiff ankles, and spend as little time on the ground as possible.\nWatch for: Hops getting higher and slower as you tire. Low and fast is the point.\nVideo: https://youtu.be/622hqFSCzls (Line Hop Forward Backward, YST Exercises)\nSide to side: youtu.be/S1aRerlNobs (Line Hops – Side to Side, Horton Barbell)"
+    },
+    {
+      "name": "Lateral Bounds",
+      "template_id": "4c96e195-c98d-4b17-8457-5ec3fc2b0be6",
+      "sets": 3,
+      "reps": 6,
+      "rest_seconds": 60,
+      "notes": "SKATER BOUND -> STICK version: 6 = 3 per side. Bound sideways, land on one leg and HOLD 2 sec, quiet and balanced, then bound back. Braking and direction change, not distance.\n\nHOW TO\n1. Same movement as Tuesday's lateral bound, but the landing is the drill.\n2. Bound sideways off one leg and land on the other.\n3. Freeze on one leg for a full 2 seconds: hips back, knee over toes, trailing foot off the floor.\n4. Only then bound back the other way. Distance doesn't matter. The quiet, balanced stop does.\nWatch for: Wobbling or the trailing foot tapping down. Make the bound shorter until the stick is solid.\nVideo: https://youtu.be/XDBHOQoAa3w (Lateral Bound with Stick, Champion Physical Therapy and Performance)"
+    },
+    {
+      "name": "Boxing Footwork",
+      "template_id": "425606c1-2f66-479b-b659-1ab88aef0eec",
+      "create": {
+        "exercise_type": "duration",
+        "equipment_category": "none",
+        "muscle_group": "full_body",
+        "other_muscles": [
+          "quadriceps",
+          "calves"
+        ]
+      },
+      "sets": 4,
+      "duration_seconds": 10,
+      "rest_seconds": 45,
+      "notes": "STANCE SHUFFLE bursts: stance -> explosive step forward -> step back; then stance -> step left -> return -> step right. Push from the opposite leg, stay balanced, never narrow or cross the feet. No punches this week.\n\nHOW TO\n1. Start in stance. Forward: push off the rear foot, lead foot steps, rear foot follows (step-drag). Then back: push off the lead foot, rear foot steps, lead foot follows.\n2. Sideways: to go left, the left foot moves first. To go right, the right foot moves first. Then return.\n3. Every step is short and explosive, and the stance width is the same after each movement.\n4. 10-second bursts, full reset between.\nWatch for: Feet coming together or crossing, or bouncing high. Glide low instead.\nVideo: https://youtu.be/dHUutXudf8o (Boxing Footwork Technique #1 – Step-drag, expertboxing)"
+    },
+    {
+      "name": "Boxing Footwork",
+      "template_id": "425606c1-2f66-479b-b659-1ab88aef0eec",
+      "create": {
+        "exercise_type": "duration",
+        "equipment_category": "none",
+        "muscle_group": "full_body",
+        "other_muscles": [
+          "quadriceps",
+          "calves"
+        ]
+      },
+      "sets": 3,
+      "duration_seconds": 20,
+      "rest_seconds": 40,
+      "notes": "L-STEP / ANGLE-OUT: step in -> pivot or L-step out -> forward -> back -> lateral angle. Accelerate, brake, redirect without standing tall. Finish every movement in a position to move again. No punches this week.\n\nHOW TO\n1. L-step (orthodox): from stance, step the rear (right) foot back, then step the lead (left) foot across to the right. Your feet trace an L and you end up facing a new angle. Southpaw is the mirror image.\n2. Chain it: step in → L-step or pivot out → forward → back → lateral angle.\n3. Stay low throughout. Accelerate, brake, redirect.\n4. Finish every movement in stance, ready to move again.\nWatch for: Standing tall as you change direction, or ending with the feet in a line.\nVideo: https://youtu.be/0oHwImE_nRQ (L-Step Tutorial – Boxing Footwork, McLeod Scott Boxing)\nIgnore any punching in the video. No punches this week."
+    },
+    {
+      "name": "Seated Calf Raise",
+      "template_id": "062AB91A",
+      "sets": 2,
+      "reps": 15,
+      "weight_kg": 40,
+      "rest_seconds": 60,
+      "notes": "From Calf & Soleus Endurance. Knee ~90 deg so the soleus cannot hide. Tempo 2 up, 1 pause, 3 down, full range off a step. 15-25 reps close to failure. 40 kg x 20 was done 4 Sep.\n\nHOW TO\n1. Sit in the seated calf machine with the pad on your lower thighs, knees at about 90°, balls of the feet on the platform edge.\n2. Lower the heels as far as they go for a full stretch.\n3. Rise onto the toes over 2 seconds, pause 1 second at the top, and lower over 3 seconds.\n4. No machine? Sit on a bench with the balls of your feet on a plate and a dumbbell on each knee.\nWatch for: Bouncing out of the bottom or cutting the range short. The slow full range is the exercise.\nVideo: https://youtu.be/I1uQtobaNRQ (Seated Calf Raise – Proper Form Tutorial, FIT.nl)"
+    },
+    {
+      "name": "Isometric Calf Hold",
+      "template_id": "a12033ed-fb6a-4431-9744-f4f7b62dc163",
+      "sets": 2,
+      "duration_seconds": 30,
+      "rest_seconds": 60,
+      "notes": "Both feet on a step, hold at the TOP. Achilles stiffness and endurance. The set ends when the heels start sinking, not when the clock stops. Never yet performed: start here.\n\nHOW TO\n1. Stand on a step on the balls of both feet, heels hanging off, lightly holding a rail for balance only.\n2. Rise up onto your toes as high as you can.\n3. Hold that top position for 30 seconds.\n4. The set is over when the heels start to sink, even if the clock hasn't finished.\nWatch for: Heels drifting down while you keep counting. Height is the whole exercise.\nVideo: https://youtu.be/gSxLKbjO26A (How To Do An Isometric Calf Hold, Footballing Journal)"
+    },
+    {
+      "name": "Tibialis Raise",
+      "template_id": "523f5420-0623-4bd9-b49b-c542f7bb9a38",
+      "sets": 2,
+      "reps": 20,
+      "rest_seconds": 45,
+      "notes": "Back against a wall, heels on the floor, pull toes to shins, lower slowly. Balances the calf work and protects the shins as impact returns. Never yet performed: bodyweight.\n\nHOW TO\n1. Lean your back against a wall with your feet about a step or two out in front, heels on the floor.\n2. Pull your toes and the front of your feet up toward your shins as far as they go.\n3. Lower slowly until your toes almost touch the floor, then raise again.\n4. The further your feet are from the wall, the harder it gets. Start close.\nWatch for: Rocking your body to lift the toes. Keep your back against the wall and let the shins do the work.\nVideo: https://youtu.be/VzIcGAgBiaM (Tibialis Wall Raises (Exercise Demo), The Barefoot Sprinter)"
+    }
+  ]
+}

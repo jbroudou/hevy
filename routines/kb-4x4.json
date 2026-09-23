@@ -1,0 +1,43 @@
+{
+  "title": "KB 4x4",
+  "routine_id": "5f644058-8058-4eda-8e6c-8336a993e12b",
+  "folder": "Plyometrics",
+  "notes": "Kettlebell stand-in for the Norwegian 4x4 when there is no air bike. ~45 min. WARM-UP (not logged, 8-10 min): easy marching, bodyweight hip hinges, light goblet squats, 2-3 easy sets of 10 swings. 4x4 BLOCKS: each block is 4 min = 4 rounds, starting a round at the top of every minute: 15 two-hand swings, 5 goblet squats, suitcase carry for the rest of the minute (switch hands each round). 3 min WALKING recovery between blocks, not standing. Then gorilla rows as a strength block. COOL-DOWN 5 min easy walk. Judge by effort (RPE 8-9) and even output, not HR: swings push HR up more than oxygen use (Farrar 2010: 87% HRmax at 65% VO2max). Record HR on the watch anyway. Shoulder above 2/10 = stop the swings and rows. No jumping, to keep the calves fresh for Plyo B on Friday.",
+  "exercises": [
+    {
+      "name": "Kettlebell Swing",
+      "template_id": "F8A0FCCA",
+      "superset_id": 0,
+      "sets": 4,
+      "reps": 60,
+      "rest_seconds": 0,
+      "notes": "ONE SET = ONE 4-MIN BLOCK: 4 rounds x 15 swings = 60. Supersetted with goblet squat and carry: the app cycles swing -> squat -> carry per block. Log the bell weight. Pick a bell you can swing 15 crisp reps with, round after round; if swings slow or turn into a squat by round 3, it is too heavy. Round 4 of block 4 should look like round 1 of block 1.\n\nHOW TO\n1. Bell on the floor a foot in front of you, feet shoulder-width. Hinge: hips back, flat back, both hands on the handle.\n2. Hike the bell back between your thighs like a centre snap.\n3. Snap the hips forward hard and stand tall - glutes tight, knees locked - so the bell floats to chest height. Arms are ropes; the hips lift the bell.\n4. Let it fall, hinge as it passes the hips, and go straight into the next rep.\nWatch for: Squatting instead of hinging, lifting with the arms or shoulders, or swinging above chest height. Chest height only this week.\nVideo: https://youtu.be/8GpQ66AAKU0 (Master the Two-handed Kettlebell Swing, ACEfitness)"
+    },
+    {
+      "name": "Kettlebell Goblet Squat",
+      "template_id": "A127DA73",
+      "superset_id": 0,
+      "sets": 4,
+      "reps": 20,
+      "rest_seconds": 0,
+      "notes": "ONE SET = ONE BLOCK: 4 rounds x 5 squats = 20. Straight after the 15 swings each round, same bell.\n\nHOW TO\n1. Hold the bell by the horns against your chest, elbows pointing down.\n2. Feet shoulder-width or a little wider, toes slightly out.\n3. Sit down between your heels, chest up, elbows inside the knees, as deep as you can keep a flat back.\n4. Drive up through the whole foot to standing.\nWatch for: Heels lifting, knees caving in, or the chest dropping so the bell pulls you forward.\nVideo: https://youtu.be/aNDUbH_Uv4g (Kettlebell Goblet Squat - Proper Form & Common Mistakes, Zack Henderson)"
+    },
+    {
+      "name": "Single Side Farmers Walk",
+      "template_id": "cb31443c-72e1-4db1-b51d-579cb98ba284",
+      "superset_id": 0,
+      "sets": 4,
+      "duration_seconds": 60,
+      "rest_seconds": 180,
+      "notes": "SUITCASE CARRY. ONE SET = ONE BLOCK: carry for whatever is left of each minute after the swings and squats, about 15 sec x 4 rounds = ~60 sec. Switch hands each round. The 180 sec rest after this is the 3-min WALKING recovery between blocks - keep moving.\n\nHOW TO\n1. Bell in one hand at your side, arm straight, shoulder packed down (not shrugged).\n2. Stand tall - don't lean away from the bell or toward it.\n3. Walk with short, steady steps, ribs down, core braced.\n4. Switch hands every round.\nWatch for: Leaning sideways or the shoulder creeping up toward the ear.\nVideo: https://youtu.be/iq5D5SU2Oq4 (How To Do Kettlebell Suitcase Carry, OriGym)"
+    },
+    {
+      "name": "Gorilla Row (Kettlebell)",
+      "template_id": "05487216",
+      "sets": 3,
+      "reps": 16,
+      "rest_seconds": 90,
+      "notes": "STRENGTH BLOCK after the 4x4. 16 = 8 per side, alternating. Moderate bells, 2-3 reps in reserve - first upper-body pulling in 3 weeks, so this re-introduces pulling, it does not test it. Shoulder above 2/10 = stop. One bell only: single-arm row with the free hand braced on your knee, same sets and reps.\n\nHOW TO\n1. Two bells on the floor between your feet, feet a bit wider than shoulder-width.\n2. Hinge until your torso is roughly parallel to the floor, flat back, soft knees; grip a handle in each hand.\n3. Row one bell to the lower ribs while pressing the other into the floor, lower it under control, switch sides.\n4. Hips and torso stay square throughout.\nWatch for: Twisting the torso to heave the bell up, or the back rounding as you tire.\nVideo: https://youtu.be/sIfC9QsjHys (How to Do Gorilla Rows - Proper Form + Common Mistakes, Syracuse Fitness Center)"
+    }
+  ]
+}

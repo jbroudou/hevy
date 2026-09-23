@@ -1,0 +1,97 @@
+{
+  "title": "Shoulder Rehab",
+  "folder": "Rehab",
+  "notes": "Boxing shoulder durability session, ~15-18 min. Posterior cuff bias: rapid punch deceleration puts eccentric demand on those muscles, so every rep has a deliberate slow return. Rest values are the low end of each prescribed range; rep targets are the top end.",
+  "exercises": [
+    {
+      "name": "Cable External Rotation (Elbow at Side)",
+      "template_id": "eed828ba-e10f-43b2-9902-2ea23a0569ba",
+      "create": {
+        "exercise_type": "weight_reps",
+        "equipment_category": "machine",
+        "muscle_group": "shoulders",
+        "other_muscles": [
+          "upper_back"
+        ]
+      },
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 30,
+      "notes": "3 sets PER SIDE. Tempo: 1 sec out, 3 sec back. Cable anchored beside you at elbow height, elbow bent 90 and pinned to your ribs. Use a load light enough that rep 20 is tiring but the elbow never leaves your ribs. Highest-priority exercise in this session - don't skip it."
+    },
+    {
+      "name": "Seated Cable Row - V Grip (Cable)",
+      "template_id": "0393F233",
+      "sets": 3,
+      "reps": 20,
+      "rest_seconds": 45,
+      "notes": "Tempo: 1 sec pull, 2 sec return. Pull toward the lower ribs, shoulders away from your ears. Let the shoulder blades move naturally backward - don't force a hard squeeze. This gives the cuff a better-moving scapular platform to work from."
+    },
+    {
+      "name": "Serratus Punch (Band)",
+      "template_id": "bc042768-ea37-48bf-a5c1-6fb1dc5cf2f5",
+      "create": {
+        "exercise_type": "weight_reps",
+        "equipment_category": "resistance_band",
+        "muscle_group": "chest",
+        "other_muscles": [
+          "shoulders",
+          "upper_back"
+        ]
+      },
+      "sets": 2,
+      "reps": 20,
+      "rest_seconds": 30,
+      "notes": "2 sets PER SIDE. Controlled throughout. Band anchored behind you. Reach the shoulder forward and let the shoulder blade wrap around the ribs, then return. Arm stays almost straight - don't think about extending the elbow. You should feel it along the side of the rib cage under the armpit. Builds serratus anterior endurance for scapular control during repeated punching."
+    },
+    {
+      "name": "Thumb-Up Scaption Raise",
+      "template_id": "9fab774e-c853-4779-aec1-a6ae39a44444",
+      "create": {
+        "exercise_type": "weight_reps",
+        "equipment_category": "dumbbell",
+        "muscle_group": "shoulders",
+        "other_muscles": [
+          "traps"
+        ]
+      },
+      "sets": 3,
+      "reps": 15,
+      "rest_seconds": 45,
+      "notes": "Tempo: 2 sec up, 3 sec down. Arms ~30 degrees forward of straight-sideways, thumbs up, raise to about shoulder height. Start with no weight or 1-2 kg. Pain check: palm-down side raise 5/10, thumb-up side raise 0/10, thumb-up scaption 0/10. Do NOT switch to palm-down lateral raises when this gets easy - add weight to the pain-free movement instead."
+    },
+    {
+      "name": "External Rotation at 90 Degrees (Band)",
+      "template_id": "2790db40-18c1-408f-b00c-ce44dd43337e",
+      "create": {
+        "exercise_type": "weight_reps",
+        "equipment_category": "resistance_band",
+        "muscle_group": "shoulders",
+        "other_muscles": [
+          "upper_back"
+        ]
+      },
+      "sets": 2,
+      "reps": 15,
+      "rest_seconds": 45,
+      "notes": "2 sets PER SIDE. Tempo: 1-2 sec out, 3 sec return. Goalpost position - upper arm out ~90, elbow bent 90. Very light band. Rotate the forearm backward keeping the upper arm still, then let the band pull you forward very slowly. SKIP THIS FOR NOW if it provokes your current shoulder pain - build on exercise 1 first and introduce this once symptoms are settling."
+    },
+    {
+      "name": "Boxing Deceleration Drill (Band)",
+      "template_id": "aaa9a0a8-f9d8-4f48-9a19-584bf01d9897",
+      "create": {
+        "exercise_type": "weight_reps",
+        "equipment_category": "resistance_band",
+        "muscle_group": "shoulders",
+        "other_muscles": [
+          "upper_back",
+          "triceps"
+        ]
+      },
+      "sets": 2,
+      "reps": 10,
+      "rest_seconds": 45,
+      "notes": "2 sets PER SIDE. Band anchored in FRONT of you at chest/shoulder height, facing the anchor in your boxing stance, band in your punching hand, starting at guard with slight tension. Let the band pull your fist along the jab/cross path while you fight it the whole way - 3-4 sec from guard to about 80-90% extension. Don't lock the elbow. Return to guard in 1-2 sec. Quality over fatigue. Progression over weeks: 2x8 -> 2x12 -> 3x12 -> 3x15, then increase resistance and restart at 2x8-10. Only add speed after that capacity is built."
+    }
+  ]
+}

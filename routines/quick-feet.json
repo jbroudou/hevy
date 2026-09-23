@@ -1,0 +1,88 @@
+{
+  "title": "Quick Feet",
+  "folder": "Plyometrics",
+  "notes": "Beginner plyometrics from Ted Ryce's thread (twitter-thread.com/t/2100563272713846966): explosive power declines faster than strength with age. Thread prescribes 1-2 sets of 30 sec for every drill; 2 sets are loaded here, drop the second if needed. Rest periods are not in the thread (60 sec is a placeholder). Technique is shown in the thread's videos.",
+  "exercises": [
+    {
+      "name": "Plate Plyometric",
+      "template_id": "4ef7f6b0-0953-4a22-9c06-a337f03f60b3",
+      "create": {
+        "exercise_type": "duration",
+        "equipment_category": "plate",
+        "muscle_group": "calves",
+        "other_muscles": [
+          "quadriceps"
+        ]
+      },
+      "sets": 2,
+      "duration_seconds": 30,
+      "rest_seconds": 60,
+      "notes": "Thread: 1-2 x 30 sec. Coordination, reactive strength, reintroduces quick ground contacts."
+    },
+    {
+      "name": "Lateral Plate Plyometric",
+      "template_id": "361979dd-9921-4a7b-9632-b20c24e5ce26",
+      "create": {
+        "exercise_type": "duration",
+        "equipment_category": "plate",
+        "muscle_group": "calves",
+        "other_muscles": [
+          "quadriceps",
+          "abductors"
+        ]
+      },
+      "sets": 2,
+      "duration_seconds": 30,
+      "rest_seconds": 60,
+      "notes": "Thread: 1-2 x 30 sec. Side-to-side movement, lateral power, reactive strength."
+    },
+    {
+      "name": "Alternating Plate Pogo",
+      "template_id": "0fd99e3c-3688-40d0-ba4c-e07b9ceab2e4",
+      "create": {
+        "exercise_type": "duration",
+        "equipment_category": "plate",
+        "muscle_group": "calves",
+        "other_muscles": [
+          "quadriceps"
+        ]
+      },
+      "sets": 2,
+      "duration_seconds": 30,
+      "rest_seconds": 60,
+      "notes": "Thread: 1-2 x 30 sec. Independent foot use, rhythm, single-leg reactive strength."
+    },
+    {
+      "name": "Plate Jump Switch",
+      "template_id": "834bb98a-e35a-42b0-9bfa-04815d4b8845",
+      "create": {
+        "exercise_type": "duration",
+        "equipment_category": "plate",
+        "muscle_group": "calves",
+        "other_muscles": [
+          "quadriceps"
+        ]
+      },
+      "sets": 2,
+      "duration_seconds": 30,
+      "rest_seconds": 60,
+      "notes": "Thread: 1-2 x 30 sec. Foot speed, reactive strength, lower-body coordination."
+    },
+    {
+      "name": "Plate Toe Taps",
+      "template_id": "7a24f27a-813c-4319-9210-256784df030e",
+      "create": {
+        "exercise_type": "duration",
+        "equipment_category": "plate",
+        "muscle_group": "calves",
+        "other_muscles": [
+          "quadriceps"
+        ]
+      },
+      "sets": 2,
+      "duration_seconds": 30,
+      "rest_seconds": 60,
+      "notes": "Thread: 1-2 x 30 sec. Quick ground contacts, single-leg reactive strength."
+    }
+  ]
+}

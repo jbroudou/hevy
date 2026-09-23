@@ -1,0 +1,49 @@
+{
+  "title": "Calf & Soleus Endurance",
+  "folder": "Rehab",
+  "notes": "~10-12 min, 2-3x per week. Targets the gating constraint on run durability, incline walking and late-round footwork: soleus endurance. Soleus is ~80% slow-twitch, so this is high-rep time-under-tension work, NOT heavy loading. Tempo everywhere: 2 sec up, 1 sec pause at the top, 3 sec down, full range off a step. START AT THE SETS WRITTEN HERE - first-exposure calf soreness is severe and lasts days. Schedule at least 48h before any session you want to run well. Progression: weeks 1-2 as written; weeks 3-4 go to 3 sets and push reps to the top of each range; week 5+ add load and drop reps back to the bottom of the range. If you get sharp or localised PAIN in the Achilles or along the shin (as opposed to burning fatigue), stop and see a physio before adding volume.",
+  "exercises": [
+    {
+      "name": "Seated Calf Raise",
+      "template_id": "062AB91A",
+      "sets": 2,
+      "reps": 15,
+      "rest_seconds": 60,
+      "notes": "THE priority exercise - done first while fresh. Knee bent ~90 deg, which slackens the gastrocnemius so the soleus cannot hide behind it. This is the muscle that fails on you at 15% gradient and late in runs. Target range 15-25 reps, taken close to failure - the burn is the point. Full stretch at the bottom, full squeeze at the top. If your gym has no seated calf machine: sit on a bench, balls of the feet on a plate or step, a dumbbell resting on each knee."
+    },
+    {
+      "name": "Standing Calf Raise (Machine)",
+      "template_id": "E05C2C38",
+      "sets": 2,
+      "reps": 15,
+      "rest_seconds": 60,
+      "notes": "Knee straight - this brings the gastrocnemius in alongside the soleus. Target range 15-20 reps. Same tempo: 2 up, 1 pause, 3 down, full range off the step. Keep the ankle tracking straight, don't let it roll to the outside edge of the foot as you fatigue. Substitute any of the barbell/dumbbell/Smith standing variants if the machine is taken."
+    },
+    {
+      "name": "Isometric Calf Hold",
+      "template_id": "a12033ed-fb6a-4431-9744-f4f7b62dc163",
+      "create": {
+        "exercise_type": "duration",
+        "equipment_category": "none",
+        "muscle_group": "calves"
+      },
+      "sets": 2,
+      "duration_seconds": 30,
+      "rest_seconds": 60,
+      "notes": "Bodyweight, both feet, balls of the feet on a step, hold at the TOP position. Builds Achilles tendon stiffness and endurance - the elastic quality you need for staying on the balls of your feet in rounds 4-5. Target range 30-45 sec. Hold the height: the set ends when your heels start sinking, not when the clock stops. Progress to single-leg holds before adding any load."
+    },
+    {
+      "name": "Tibialis Raise",
+      "template_id": "523f5420-0623-4bd9-b49b-c542f7bb9a38",
+      "create": {
+        "exercise_type": "bodyweight_reps",
+        "equipment_category": "none",
+        "muscle_group": "calves"
+      },
+      "sets": 2,
+      "reps": 20,
+      "rest_seconds": 45,
+      "notes": "Front of the shin - the balance for all the calf work above, and it protects against shin splints as running volume returns. Heels on the floor, back against a wall with the feet a step or two out, pull the toes up toward the shins as far as possible then lower slowly. Target range 20-25 reps. Bodyweight is plenty to start."
+    }
+  ]
+}
